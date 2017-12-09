@@ -1,0 +1,41 @@
+.crm-webform-default{
+    background-color: #0c64e6;
+}
+.crm-webform-label-title label{
+    color: white !important;
+    font-size: 1.3em;
+    font-weight: 600;
+}
+button.crm-webform-submit-button{
+    width: 298px;
+    transition: 0.5s ease;
+    border: 2px solid white;
+    background-color: #0c64e6 !important;
+    font-size: 2em !important;
+
+}
+button.crm-webform-submit-button:hover{
+    background-color: white !important;
+    color: #0c64e6;
+}
+.crm-webform-fieldset{
+    width: 298px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto; 
+}
+.crm-webform-block{
+    width: 400px !important;
+}
+.crm-webform-bottom-logo-container{
+    display:none;
+}
+.crm-webform-desktop-font-style a{
+    color: white;
+}
+.crm-webform-label-required-field:after{
+    display: none;
+}
+.crm-webform-iframe{
+    background-color: #f6f8fa;
+}
